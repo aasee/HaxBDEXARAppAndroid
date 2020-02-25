@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343417423463",
+    "firebase_url": "https://haxbdex.firebaseio.com",
+    "project_id": "haxbdex",
+    "storage_bucket": "haxbdex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343417423463:android:b05196e9f70688bd3736c2",
+        "android_client_info": {
+          "package_name": "fmr.haxbdex.paintballhaxbdex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343417423463-b13jnelf1duj8h0ahfad5skal413051h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfSsdY_GM_NVN5Hk5Xa3QJq6nPAOSlhNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343417423463-b13jnelf1duj8h0ahfad5skal413051h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
